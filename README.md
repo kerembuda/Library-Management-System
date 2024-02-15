@@ -1,4 +1,6 @@
-Hello Everyone, With this program you can manage your library, you can add and remove books, list all the books, count the books.
+Hello Everyone, 
+
+With this program you can manage your library, you can add and remove books, list all the books, count the books.
 
 Books.txt will be created upon start, it'll be our database.
 
