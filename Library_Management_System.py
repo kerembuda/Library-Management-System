@@ -98,7 +98,9 @@ while True:
         library.add_book()
     elif user_selection == "3":
         library.remove_book()
-    elif user_selection == "Q" or "q":
+    elif user_selection == "Q":
+        break
+    elif user_selection == "q":
         break
     else:
         print("Wrong input, try again!!!")
